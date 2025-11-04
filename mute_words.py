@@ -1,3 +1,5 @@
+# mute_words.py
+
 import argparse, csv, json, os, re, shutil, subprocess, sys, tempfile, traceback
 from dataclasses import dataclass, asdict
 from pathlib import Path
@@ -9,6 +11,24 @@ from rapidfuzz import fuzz
 
 # --- Point pydub to ffmpeg on Windows (adjust if installed elsewhere) ---
 AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
+
+# --- robust ffmpeg resolution (works even if PATH is missing) ---
+def _ffmpeg_path() -> str:
+    """
+    Returns a full path to ffmpeg. Tries PATH, then AudioSegment.converter.
+    Raises a clear error if not found.
+    """
+    path = shutil.which("ffmpeg")
+    if path:
+        return path
+    conv = getattr(AudioSegment, "converter", None)
+    if conv and Path(conv).exists():
+        return str(conv)
+    raise SystemExit(
+        "FFmpeg not found.\n"
+        "Set AudioSegment.converter to your ffmpeg.exe or add ffmpeg to PATH.\n"
+        "E.g., AudioSegment.converter = r'C:\\ffmpeg\\bin\\ffmpeg.exe'"
+    )
 
 # -------------------- Defaults --------------------
 DEFAULT_BEEP_FREQ = 1000   # Hz
@@ -36,24 +56,23 @@ def require_ffmpeg():
     """
     Ensure ffmpeg is callable for both subprocess and pydub.
     """
-    if not shutil.which("ffmpeg") and not Path(AudioSegment.converter).exists():
-        sys.exit(
-            "FFmpeg not found.\n"
-            "Install FFmpeg and either add it to PATH or update AudioSegment.converter.\n"
-            "Example: C:\\ffmpeg\\bin\\ffmpeg.exe"
-        )
+    # Will raise SystemExit with a clear message if not found
+    _ = _ffmpeg_path()
 
 def ffmpeg_extract_audio_pcm(src: Path, dst: Path, sr=16000):
-    cmd = ["ffmpeg", "-y", "-i", str(src), "-vn", "-ac", "1", "-ar", str(sr), "-sample_fmt", "s16", str(dst)]
+    ff = _ffmpeg_path()
+    cmd = [ff, "-y", "-i", str(src), "-vn", "-ac", "1", "-ar", str(sr), "-sample_fmt", "s16", str(dst)]
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 def ffmpeg_extract_audio_full(src: Path, dst: Path):
-    cmd = ["ffmpeg", "-y", "-i", str(src), "-vn", str(dst)]
+    ff = _ffmpeg_path()
+    cmd = [ff, "-y", "-i", str(src), "-vn", str(dst)]
     subprocess.run(cmd, check=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 def ffmpeg_mux_audio(video_in: Path, audio_in_wav: Path, out_path: Path):
+    ff = _ffmpeg_path()
     cmd = [
-        "ffmpeg", "-y",
+        ff, "-y",
         "-i", str(video_in),
         "-i", str(audio_in_wav),
         "-map", "0:v:0", "-map", "1:a:0",

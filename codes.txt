@@ -1,0 +1,13 @@
+>>>How to render (fully mute under the beep)
+
+python mute_words.py samples\sample.mp4 --apply_from samples\sample.review.csv --mute_mode replace --out samples\sample_censored.mp4
+
+
+>>>If you want faint background instead:
+
+python mute_words.py samples\sample.mp4 --apply_from samples\sample.review.csv --mute_mode duck --duck_db -50 --out samples\sample_censored.mp4
+
+
+>>>And if any syllable tails leak, give a bit more padding:
+
+... --margin 120 --freq 750 --gain -3

@@ -1,6 +1,46 @@
+# --- Python ---
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
 
-*.venv/
-*samples/
+# --- Virtual environment ---
+.venv/
+env/
+venv/
 
+# --- Build / Dist ---
+build/
+dist/
+*.egg-info/
 
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.code-workspace
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Logs & Outputs ---
+*.log
+outputs/
+results/
+temp/
+*.tmp
+
+# --- Audio/Video test files ---
+*.mp3
+*.wav
+*.mp4
+*.m4a
+*.mkv
+
+# --- Model/Cache ---
+*.bin
+*.onnx
+*.pt
+*.ckpt
+.cache/

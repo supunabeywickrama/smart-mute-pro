@@ -1,0 +1,8342 @@
+{
+  "meta": {
+    "language": "en",
+    "input": "samples\\sample.mp4",
+    "model": "small",
+    "banned_words": [],
+    "fuzzy": false,
+    "margin_ms": 60
+  },
+  "hits": [
+    {
+      "idx": 0,
+      "word": "Welcome",
+      "start_ms": 2440,
+      "end_ms": 3000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 1,
+      "word": "back",
+      "start_ms": 3000,
+      "end_ms": 3400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 2,
+      "word": "to",
+      "start_ms": 3400,
+      "end_ms": 3640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 3,
+      "word": "the",
+      "start_ms": 3640,
+      "end_ms": 3760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 4,
+      "word": "third",
+      "start_ms": 3760,
+      "end_ms": 4059,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 5,
+      "word": "and",
+      "start_ms": 4059,
+      "end_ms": 4300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 6,
+      "word": "final",
+      "start_ms": 4300,
+      "end_ms": 4700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 7,
+      "word": "episode",
+      "start_ms": 4700,
+      "end_ms": 5220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 8,
+      "word": "of",
+      "start_ms": 5220,
+      "end_ms": 5460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 9,
+      "word": "this",
+      "start_ms": 5460,
+      "end_ms": 5660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 10,
+      "word": "series.",
+      "start_ms": 5660,
+      "end_ms": 5940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 11,
+      "word": "In",
+      "start_ms": 6620,
+      "end_ms": 6760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 12,
+      "word": "this",
+      "start_ms": 6760,
+      "end_ms": 6960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 13,
+      "word": "video,",
+      "start_ms": 6960,
+      "end_ms": 7280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 14,
+      "word": "we'll",
+      "start_ms": 7620,
+      "end_ms": 7860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 15,
+      "word": "put",
+      "start_ms": 7860,
+      "end_ms": 8039,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 16,
+      "word": "everything",
+      "start_ms": 8039,
+      "end_ms": 8700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 17,
+      "word": "we've",
+      "start_ms": 8700,
+      "end_ms": 9020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 18,
+      "word": "built",
+      "start_ms": 9020,
+      "end_ms": 9140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 19,
+      "word": "together",
+      "start_ms": 9140,
+      "end_ms": 9480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 20,
+      "word": "so",
+      "start_ms": 9480,
+      "end_ms": 9760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 21,
+      "word": "far",
+      "start_ms": 9760,
+      "end_ms": 10140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 22,
+      "word": "and",
+      "start_ms": 10140,
+      "end_ms": 10580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 23,
+      "word": "build",
+      "start_ms": 10580,
+      "end_ms": 10840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 24,
+      "word": "our",
+      "start_ms": 10840,
+      "end_ms": 11000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 25,
+      "word": "dashboard.",
+      "start_ms": 11000,
+      "end_ms": 11380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 26,
+      "word": "Thank",
+      "start_ms": 12140,
+      "end_ms": 12460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 27,
+      "word": "you",
+      "start_ms": 12460,
+      "end_ms": 12600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 28,
+      "word": "so",
+      "start_ms": 12600,
+      "end_ms": 12860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 29,
+      "word": "much",
+      "start_ms": 12860,
+      "end_ms": 13120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 30,
+      "word": "for",
+      "start_ms": 13120,
+      "end_ms": 13280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 31,
+      "word": "all",
+      "start_ms": 13280,
+      "end_ms": 13460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 32,
+      "word": "the",
+      "start_ms": 13460,
+      "end_ms": 13580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 33,
+      "word": "comments",
+      "start_ms": 13580,
+      "end_ms": 13900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 34,
+      "word": "and",
+      "start_ms": 13900,
+      "end_ms": 14180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 35,
+      "word": "feedback",
+      "start_ms": 14180,
+      "end_ms": 14520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 36,
+      "word": "I",
+      "start_ms": 14520,
+      "end_ms": 14880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 37,
+      "word": "have",
+      "start_ms": 14880,
+      "end_ms": 15020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 38,
+      "word": "received.",
+      "start_ms": 15020,
+      "end_ms": 15360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 39,
+      "word": "Let",
+      "start_ms": 16020,
+      "end_ms": 16260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 40,
+      "word": "me",
+      "start_ms": 16260,
+      "end_ms": 16440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 41,
+      "word": "know",
+      "start_ms": 16440,
+      "end_ms": 16720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 42,
+      "word": "what",
+      "start_ms": 16720,
+      "end_ms": 17220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 43,
+      "word": "you",
+      "start_ms": 17220,
+      "end_ms": 17440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 44,
+      "word": "would",
+      "start_ms": 17440,
+      "end_ms": 17580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 45,
+      "word": "like",
+      "start_ms": 17580,
+      "end_ms": 17760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 46,
+      "word": "the",
+      "start_ms": 17760,
+      "end_ms": 17980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 47,
+      "word": "next",
+      "start_ms": 17980,
+      "end_ms": 18220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 48,
+      "word": "video",
+      "start_ms": 18220,
+      "end_ms": 18520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 49,
+      "word": "to",
+      "start_ms": 18520,
+      "end_ms": 18700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 50,
+      "word": "be",
+      "start_ms": 18700,
+      "end_ms": 18860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 51,
+      "word": "about.",
+      "start_ms": 18860,
+      "end_ms": 19180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 52,
+      "word": "And",
+      "start_ms": 19660,
+      "end_ms": 19920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 53,
+      "word": "don't",
+      "start_ms": 19920,
+      "end_ms": 20020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 54,
+      "word": "forget",
+      "start_ms": 20020,
+      "end_ms": 20280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 55,
+      "word": "to",
+      "start_ms": 20280,
+      "end_ms": 20480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 56,
+      "word": "subscribe",
+      "start_ms": 20480,
+      "end_ms": 20760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 57,
+      "word": "to",
+      "start_ms": 20760,
+      "end_ms": 21040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 58,
+      "word": "my",
+      "start_ms": 21040,
+      "end_ms": 21140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 59,
+      "word": "channel",
+      "start_ms": 21140,
+      "end_ms": 21480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 60,
+      "word": "to",
+      "start_ms": 21480,
+      "end_ms": 22040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 61,
+      "word": "stay",
+      "start_ms": 22040,
+      "end_ms": 22260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 62,
+      "word": "updated.",
+      "start_ms": 22260,
+      "end_ms": 22720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 63,
+      "word": "So",
+      "start_ms": 23440,
+      "end_ms": 24000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 64,
+      "word": "let's",
+      "start_ms": 24000,
+      "end_ms": 24340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 65,
+      "word": "do",
+      "start_ms": 24340,
+      "end_ms": 24540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 66,
+      "word": "a",
+      "start_ms": 24540,
+      "end_ms": 24780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 67,
+      "word": "quick",
+      "start_ms": 24780,
+      "end_ms": 25020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 68,
+      "word": "recap",
+      "start_ms": 25020,
+      "end_ms": 25500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 69,
+      "word": "on",
+      "start_ms": 25500,
+      "end_ms": 25980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 70,
+      "word": "previous",
+      "start_ms": 25980,
+      "end_ms": 26400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 71,
+      "word": "episodes.",
+      "start_ms": 26400,
+      "end_ms": 27120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 72,
+      "word": "You",
+      "start_ms": 27120,
+      "end_ms": 27760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 73,
+      "word": "have",
+      "start_ms": 27760,
+      "end_ms": 28420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 74,
+      "word": "built",
+      "start_ms": 28420,
+      "end_ms": 28720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 75,
+      "word": "your",
+      "start_ms": 28720,
+      "end_ms": 28940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 76,
+      "word": "floor",
+      "start_ms": 28940,
+      "end_ms": 29160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 77,
+      "word": "plan",
+      "start_ms": 29160,
+      "end_ms": 29520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 78,
+      "word": "using",
+      "start_ms": 29520,
+      "end_ms": 29940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 79,
+      "word": "SketchUp",
+      "start_ms": 29940,
+      "end_ms": 30760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 80,
+      "word": "or",
+      "start_ms": 30760,
+      "end_ms": 31060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 81,
+      "word": "Sweet",
+      "start_ms": 31060,
+      "end_ms": 31400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 82,
+      "word": "Home",
+      "start_ms": 31400,
+      "end_ms": 31640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 83,
+      "word": "3D",
+      "start_ms": 31640,
+      "end_ms": 32119,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 84,
+      "word": "or",
+      "start_ms": 32119,
+      "end_ms": 32659,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 85,
+      "word": "any",
+      "start_ms": 32659,
+      "end_ms": 32980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 86,
+      "word": "other",
+      "start_ms": 32980,
+      "end_ms": 33300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 87,
+      "word": "3D",
+      "start_ms": 33300,
+      "end_ms": 33700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 88,
+      "word": "software.",
+      "start_ms": 33700,
+      "end_ms": 33940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 89,
+      "word": "You",
+      "start_ms": 34840,
+      "end_ms": 35140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 90,
+      "word": "have",
+      "start_ms": 35140,
+      "end_ms": 35340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 91,
+      "word": "created",
+      "start_ms": 35340,
+      "end_ms": 35840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 92,
+      "word": "overlays",
+      "start_ms": 35840,
+      "end_ms": 36840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 93,
+      "word": "on",
+      "start_ms": 36840,
+      "end_ms": 37160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 94,
+      "word": "top",
+      "start_ms": 37160,
+      "end_ms": 37360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 95,
+      "word": "of",
+      "start_ms": 37360,
+      "end_ms": 37580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 96,
+      "word": "your",
+      "start_ms": 37580,
+      "end_ms": 37740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 97,
+      "word": "renders.",
+      "start_ms": 37740,
+      "end_ms": 38300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 98,
+      "word": "And",
+      "start_ms": 38780,
+      "end_ms": 39140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 99,
+      "word": "now",
+      "start_ms": 39140,
+      "end_ms": 39380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 100,
+      "word": "let's",
+      "start_ms": 39380,
+      "end_ms": 39660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 101,
+      "word": "build",
+      "start_ms": 39660,
+      "end_ms": 39900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 102,
+      "word": "our",
+      "start_ms": 39900,
+      "end_ms": 40140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 103,
+      "word": "dashboard.",
+      "start_ms": 40140,
+      "end_ms": 40580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 104,
+      "word": "And",
+      "start_ms": 41220,
+      "end_ms": 41600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 105,
+      "word": "his",
+      "start_ms": 41600,
+      "end_ms": 41800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 106,
+      "word": "name",
+      "start_ms": 41800,
+      "end_ms": 42120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 107,
+      "word": "is",
+      "start_ms": 42120,
+      "end_ms": 42380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 108,
+      "word": "John",
+      "start_ms": 42380,
+      "end_ms": 42800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 109,
+      "word": "Cena!",
+      "start_ms": 42800,
+      "end_ms": 43180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 110,
+      "word": "Okay,",
+      "start_ms": 45120,
+      "end_ms": 45760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 111,
+      "word": "never",
+      "start_ms": 45880,
+      "end_ms": 46100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 112,
+      "word": "mind.",
+      "start_ms": 46100,
+      "end_ms": 46380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 113,
+      "word": "You",
+      "start_ms": 46580,
+      "end_ms": 46660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 114,
+      "word": "have",
+      "start_ms": 46660,
+      "end_ms": 46820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 115,
+      "word": "not",
+      "start_ms": 46820,
+      "end_ms": 47020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 116,
+      "word": "created",
+      "start_ms": 47020,
+      "end_ms": 47420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 117,
+      "word": "any",
+      "start_ms": 47420,
+      "end_ms": 47940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 118,
+      "word": "of",
+      "start_ms": 47940,
+      "end_ms": 48120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 119,
+      "word": "these.",
+      "start_ms": 48120,
+      "end_ms": 48340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 120,
+      "word": "That's",
+      "start_ms": 48740,
+      "end_ms": 49220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 121,
+      "word": "okay.",
+      "start_ms": 49220,
+      "end_ms": 49560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 122,
+      "word": "Just",
+      "start_ms": 49940,
+      "end_ms": 50180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 123,
+      "word": "download",
+      "start_ms": 50180,
+      "end_ms": 50480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 124,
+      "word": "the",
+      "start_ms": 50480,
+      "end_ms": 50740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 125,
+      "word": "assets",
+      "start_ms": 50740,
+      "end_ms": 51060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 126,
+      "word": "from",
+      "start_ms": 51060,
+      "end_ms": 51380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 127,
+      "word": "the",
+      "start_ms": 51380,
+      "end_ms": 51560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 128,
+      "word": "GitHub",
+      "start_ms": 51560,
+      "end_ms": 51860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 129,
+      "word": "link",
+      "start_ms": 51860,
+      "end_ms": 52220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 130,
+      "word": "in",
+      "start_ms": 52220,
+      "end_ms": 52540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 131,
+      "word": "the",
+      "start_ms": 52540,
+      "end_ms": 52680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 132,
+      "word": "description.",
+      "start_ms": 52680,
+      "end_ms": 53000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 133,
+      "word": "Okay,",
+      "start_ms": 53540,
+      "end_ms": 53900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 134,
+      "word": "so",
+      "start_ms": 53980,
+      "end_ms": 54240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 135,
+      "word": "back",
+      "start_ms": 54240,
+      "end_ms": 54480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 136,
+      "word": "to",
+      "start_ms": 54480,
+      "end_ms": 54700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 137,
+      "word": "our",
+      "start_ms": 54700,
+      "end_ms": 54900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 138,
+      "word": "series",
+      "start_ms": 54900,
+      "end_ms": 55220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 139,
+      "word": "business.",
+      "start_ms": 55220,
+      "end_ms": 55740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 140,
+      "word": "First,",
+      "start_ms": 56280,
+      "end_ms": 56620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 141,
+      "word": "you",
+      "start_ms": 56860,
+      "end_ms": 56880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 142,
+      "word": "need",
+      "start_ms": 56880,
+      "end_ms": 57020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 143,
+      "word": "to",
+      "start_ms": 57020,
+      "end_ms": 57180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 144,
+      "word": "install",
+      "start_ms": 57180,
+      "end_ms": 57560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 145,
+      "word": "H",
+      "start_ms": 57560,
+      "end_ms": 57960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 146,
+      "word": "-A",
+      "start_ms": 57960,
+      "end_ms": 58220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 147,
+      "word": "floor",
+      "start_ms": 58220,
+      "end_ms": 58460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 148,
+      "word": "plan.",
+      "start_ms": 58460,
+      "end_ms": 58840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 149,
+      "word": "I",
+      "start_ms": 59180,
+      "end_ms": 59260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 150,
+      "word": "recommend",
+      "start_ms": 59260,
+      "end_ms": 59680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 151,
+      "word": "downloading",
+      "start_ms": 59680,
+      "end_ms": 60260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 152,
+      "word": "it",
+      "start_ms": 60260,
+      "end_ms": 60560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 153,
+      "word": "from",
+      "start_ms": 60560,
+      "end_ms": 60780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 154,
+      "word": "Hacks.",
+      "start_ms": 60780,
+      "end_ms": 61200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 155,
+      "word": "We",
+      "start_ms": 61800,
+      "end_ms": 62200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 156,
+      "word": "are",
+      "start_ms": 62200,
+      "end_ms": 62400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 157,
+      "word": "also",
+      "start_ms": 62400,
+      "end_ms": 62740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 158,
+      "word": "going",
+      "start_ms": 62740,
+      "end_ms": 62980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 159,
+      "word": "to",
+      "start_ms": 62980,
+      "end_ms": 63180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 160,
+      "word": "cover",
+      "start_ms": 63180,
+      "end_ms": 63500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 161,
+      "word": "two",
+      "start_ms": 63500,
+      "end_ms": 63880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 162,
+      "word": "configuration",
+      "start_ms": 63880,
+      "end_ms": 64420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 163,
+      "word": "methods",
+      "start_ms": 64420,
+      "end_ms": 65019,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 164,
+      "word": "for",
+      "start_ms": 65019,
+      "end_ms": 65300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 165,
+      "word": "dashboards.",
+      "start_ms": 65300,
+      "end_ms": 65860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 166,
+      "word": "So",
+      "start_ms": 66780,
+      "end_ms": 66820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 167,
+      "word": "let's",
+      "start_ms": 66820,
+      "end_ms": 67100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 168,
+      "word": "begin.",
+      "start_ms": 67100,
+      "end_ms": 67400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 169,
+      "word": "Option",
+      "start_ms": 68320,
+      "end_ms": 68900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 170,
+      "word": "A",
+      "start_ms": 68900,
+      "end_ms": 69320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 171,
+      "word": "is",
+      "start_ms": 69320,
+      "end_ms": 69600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 172,
+      "word": "where",
+      "start_ms": 69600,
+      "end_ms": 69860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 173,
+      "word": "we",
+      "start_ms": 69860,
+      "end_ms": 70120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 174,
+      "word": "control",
+      "start_ms": 70120,
+      "end_ms": 70680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 175,
+      "word": "the",
+      "start_ms": 70680,
+      "end_ms": 70900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 176,
+      "word": "dashboards",
+      "start_ms": 70900,
+      "end_ms": 71420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 177,
+      "word": "from",
+      "start_ms": 71420,
+      "end_ms": 71680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 178,
+      "word": "the",
+      "start_ms": 71680,
+      "end_ms": 71900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 179,
+      "word": "user",
+      "start_ms": 71900,
+      "end_ms": 72120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 180,
+      "word": "interface.",
+      "start_ms": 72120,
+      "end_ms": 72740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 181,
+      "word": "Pretty",
+      "start_ms": 73280,
+      "end_ms": 73860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 182,
+      "word": "straightforward",
+      "start_ms": 73860,
+      "end_ms": 74400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 183,
+      "word": "and",
+      "start_ms": 74400,
+      "end_ms": 74900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 184,
+      "word": "easy.",
+      "start_ms": 74900,
+      "end_ms": 75220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 185,
+      "word": "So",
+      "start_ms": 75900,
+      "end_ms": 76020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 186,
+      "word": "first,",
+      "start_ms": 76020,
+      "end_ms": 76420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 187,
+      "word": "Home",
+      "start_ms": 77400,
+      "end_ms": 77760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 188,
+      "word": "Assistant.",
+      "start_ms": 77760,
+      "end_ms": 78140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 189,
+      "word": "Go",
+      "start_ms": 78820,
+      "end_ms": 79020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 190,
+      "word": "to",
+      "start_ms": 79020,
+      "end_ms": 79200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 191,
+      "word": "Settings,",
+      "start_ms": 79200,
+      "end_ms": 79440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 192,
+      "word": "Dashboards.",
+      "start_ms": 80120,
+      "end_ms": 80800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 193,
+      "word": "You",
+      "start_ms": 81320,
+      "end_ms": 81520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 194,
+      "word": "will",
+      "start_ms": 81520,
+      "end_ms": 81680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 195,
+      "word": "see",
+      "start_ms": 81680,
+      "end_ms": 81900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 196,
+      "word": "two",
+      "start_ms": 81900,
+      "end_ms": 82140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 197,
+      "word": "types",
+      "start_ms": 82140,
+      "end_ms": 82460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 198,
+      "word": "of",
+      "start_ms": 82460,
+      "end_ms": 82680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 199,
+      "word": "configured",
+      "start_ms": 82680,
+      "end_ms": 83180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 200,
+      "word": "dashboards.",
+      "start_ms": 83180,
+      "end_ms": 84440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 201,
+      "word": "Let's",
+      "start_ms": 85080,
+      "end_ms": 85640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 202,
+      "word": "add",
+      "start_ms": 85640,
+      "end_ms": 85940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 203,
+      "word": "a",
+      "start_ms": 85940,
+      "end_ms": 86160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 204,
+      "word": "new",
+      "start_ms": 86160,
+      "end_ms": 86320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 205,
+      "word": "dashboard",
+      "start_ms": 86320,
+      "end_ms": 86760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 206,
+      "word": "from",
+      "start_ms": 86760,
+      "end_ms": 87200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 207,
+      "word": "the",
+      "start_ms": 87200,
+      "end_ms": 87400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 208,
+      "word": "user",
+      "start_ms": 87400,
+      "end_ms": 87620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 209,
+      "word": "interface.",
+      "start_ms": 87620,
+      "end_ms": 88200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 210,
+      "word": "Give",
+      "start_ms": 89260,
+      "end_ms": 90020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 211,
+      "word": "it",
+      "start_ms": 90020,
+      "end_ms": 90140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 212,
+      "word": "a",
+      "start_ms": 90140,
+      "end_ms": 90220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 213,
+      "word": "title.",
+      "start_ms": 90220,
+      "end_ms": 90580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 214,
+      "word": "Pick",
+      "start_ms": 91580,
+      "end_ms": 91860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 215,
+      "word": "any",
+      "start_ms": 91860,
+      "end_ms": 92100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 216,
+      "word": "icon",
+      "start_ms": 92100,
+      "end_ms": 92460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 217,
+      "word": "you",
+      "start_ms": 92460,
+      "end_ms": 92640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 218,
+      "word": "wish.",
+      "start_ms": 92640,
+      "end_ms": 92920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 219,
+      "word": "And",
+      "start_ms": 97280,
+      "end_ms": 97660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 220,
+      "word": "then",
+      "start_ms": 97660,
+      "end_ms": 97900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 221,
+      "word": "let's",
+      "start_ms": 97900,
+      "end_ms": 98400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 222,
+      "word": "create",
+      "start_ms": 98400,
+      "end_ms": 98780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 223,
+      "word": "it.",
+      "start_ms": 98780,
+      "end_ms": 99140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 224,
+      "word": "And",
+      "start_ms": 100560,
+      "end_ms": 100840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 225,
+      "word": "then",
+      "start_ms": 100840,
+      "end_ms": 101040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 226,
+      "word": "let's",
+      "start_ms": 101040,
+      "end_ms": 101520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 227,
+      "word": "open",
+      "start_ms": 101520,
+      "end_ms": 102440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 228,
+      "word": "that",
+      "start_ms": 102440,
+      "end_ms": 102760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 229,
+      "word": "called",
+      "start_ms": 102760,
+      "end_ms": 103160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 230,
+      "word": "demo.",
+      "start_ms": 103160,
+      "end_ms": 103500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 231,
+      "word": "Now",
+      "start_ms": 104700,
+      "end_ms": 105460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 232,
+      "word": "go",
+      "start_ms": 105460,
+      "end_ms": 106020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 233,
+      "word": "to",
+      "start_ms": 106020,
+      "end_ms": 106240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 234,
+      "word": "the",
+      "start_ms": 106240,
+      "end_ms": 106480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 235,
+      "word": "raw",
+      "start_ms": 106480,
+      "end_ms": 106900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 236,
+      "word": "configuration",
+      "start_ms": 106900,
+      "end_ms": 107480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 237,
+      "word": "editor.",
+      "start_ms": 107480,
+      "end_ms": 108200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 238,
+      "word": "And",
+      "start_ms": 110399,
+      "end_ms": 111240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 239,
+      "word": "then",
+      "start_ms": 111240,
+      "end_ms": 112040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 240,
+      "word": "you",
+      "start_ms": 112040,
+      "end_ms": 112240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 241,
+      "word": "need",
+      "start_ms": 112240,
+      "end_ms": 112420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 242,
+      "word": "to",
+      "start_ms": 112420,
+      "end_ms": 112600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 243,
+      "word": "paste",
+      "start_ms": 112600,
+      "end_ms": 113000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 244,
+      "word": "the",
+      "start_ms": 113000,
+      "end_ms": 113380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 245,
+      "word": "demo",
+      "start_ms": 113380,
+      "end_ms": 113720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 246,
+      "word": "YAML",
+      "start_ms": 113720,
+      "end_ms": 114140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 247,
+      "word": "file",
+      "start_ms": 114140,
+      "end_ms": 114540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 248,
+      "word": "that",
+      "start_ms": 114540,
+      "end_ms": 115540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 249,
+      "word": "you",
+      "start_ms": 115540,
+      "end_ms": 115720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 250,
+      "word": "found",
+      "start_ms": 115720,
+      "end_ms": 116040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 251,
+      "word": "in",
+      "start_ms": 116040,
+      "end_ms": 116380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 252,
+      "word": "the",
+      "start_ms": 116380,
+      "end_ms": 116540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 253,
+      "word": "GitHub",
+      "start_ms": 116540,
+      "end_ms": 116880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 254,
+      "word": "repo.",
+      "start_ms": 116880,
+      "end_ms": 117320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 255,
+      "word": "Awesome.",
+      "start_ms": 119060,
+      "end_ms": 119900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 256,
+      "word": "Now",
+      "start_ms": 120640,
+      "end_ms": 121080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 257,
+      "word": "you",
+      "start_ms": 121080,
+      "end_ms": 121440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 258,
+      "word": "need",
+      "start_ms": 121440,
+      "end_ms": 121640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 259,
+      "word": "to",
+      "start_ms": 121640,
+      "end_ms": 121860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 260,
+      "word": "update",
+      "start_ms": 121860,
+      "end_ms": 122380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 261,
+      "word": "the",
+      "start_ms": 122380,
+      "end_ms": 122680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 262,
+      "word": "entities",
+      "start_ms": 122680,
+      "end_ms": 123500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 263,
+      "word": "highlighted",
+      "start_ms": 123500,
+      "end_ms": 125040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 264,
+      "word": "in",
+      "start_ms": 125040,
+      "end_ms": 125580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 265,
+      "word": "red",
+      "start_ms": 125580,
+      "end_ms": 125920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 266,
+      "word": "with",
+      "start_ms": 125920,
+      "end_ms": 127460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 267,
+      "word": "your",
+      "start_ms": 127460,
+      "end_ms": 127800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 268,
+      "word": "smartlamps",
+      "start_ms": 127800,
+      "end_ms": 128639,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 269,
+      "word": "entity",
+      "start_ms": 128639,
+      "end_ms": 129100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 270,
+      "word": "name.",
+      "start_ms": 129100,
+      "end_ms": 129479,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 271,
+      "word": "And",
+      "start_ms": 130100,
+      "end_ms": 130840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 272,
+      "word": "the",
+      "start_ms": 130840,
+      "end_ms": 131000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 273,
+      "word": "highlighted",
+      "start_ms": 131000,
+      "end_ms": 131440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 274,
+      "word": "elements",
+      "start_ms": 131440,
+      "end_ms": 132100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 275,
+      "word": "in",
+      "start_ms": 132100,
+      "end_ms": 133240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 276,
+      "word": "yellow",
+      "start_ms": 133240,
+      "end_ms": 133480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 277,
+      "word": "must",
+      "start_ms": 133480,
+      "end_ms": 134100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 278,
+      "word": "match",
+      "start_ms": 134100,
+      "end_ms": 134600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 279,
+      "word": "the",
+      "start_ms": 134600,
+      "end_ms": 134800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 280,
+      "word": "IDs",
+      "start_ms": 134800,
+      "end_ms": 135240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 281,
+      "word": "we",
+      "start_ms": 135240,
+      "end_ms": 135500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 282,
+      "word": "created",
+      "start_ms": 135500,
+      "end_ms": 135960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 283,
+      "word": "in",
+      "start_ms": 135960,
+      "end_ms": 136380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 284,
+      "word": "the",
+      "start_ms": 136380,
+      "end_ms": 136480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 285,
+      "word": "SVG.",
+      "start_ms": 136480,
+      "end_ms": 137060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 286,
+      "word": "And",
+      "start_ms": 138100,
+      "end_ms": 138980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 287,
+      "word": "that's",
+      "start_ms": 138980,
+      "end_ms": 139420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 288,
+      "word": "it.",
+      "start_ms": 139420,
+      "end_ms": 139580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 289,
+      "word": "You",
+      "start_ms": 139740,
+      "end_ms": 139800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 290,
+      "word": "have",
+      "start_ms": 139800,
+      "end_ms": 140140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 291,
+      "word": "a",
+      "start_ms": 140140,
+      "end_ms": 140620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 292,
+      "word": "fully",
+      "start_ms": 140620,
+      "end_ms": 141060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 293,
+      "word": "functional",
+      "start_ms": 141060,
+      "end_ms": 141660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 294,
+      "word": "digital",
+      "start_ms": 141660,
+      "end_ms": 142820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 295,
+      "word": "twin.",
+      "start_ms": 142820,
+      "end_ms": 143400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 296,
+      "word": "And",
+      "start_ms": 144160,
+      "end_ms": 144840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 297,
+      "word": "let's",
+      "start_ms": 144840,
+      "end_ms": 145220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 298,
+      "word": "try",
+      "start_ms": 145220,
+      "end_ms": 145480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 299,
+      "word": "out",
+      "start_ms": 145480,
+      "end_ms": 145860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 300,
+      "word": "the",
+      "start_ms": 145860,
+      "end_ms": 146120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 301,
+      "word": "lamp.",
+      "start_ms": 146120,
+      "end_ms": 146560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 302,
+      "word": "Works",
+      "start_ms": 147160,
+      "end_ms": 148020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 303,
+      "word": "fine.",
+      "start_ms": 148020,
+      "end_ms": 148540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 304,
+      "word": "And",
+      "start_ms": 149340,
+      "end_ms": 150020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 305,
+      "word": "we're",
+      "start_ms": 150020,
+      "end_ms": 150280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 306,
+      "word": "done.",
+      "start_ms": 150280,
+      "end_ms": 150520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 307,
+      "word": "Right.",
+      "start_ms": 152400,
+      "end_ms": 152740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 308,
+      "word": "So",
+      "start_ms": 153080,
+      "end_ms": 153200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 309,
+      "word": "option",
+      "start_ms": 153200,
+      "end_ms": 153660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 310,
+      "word": "B,",
+      "start_ms": 153660,
+      "end_ms": 154080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 311,
+      "word": "using",
+      "start_ms": 154500,
+      "end_ms": 155020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 312,
+      "word": "YAML",
+      "start_ms": 155020,
+      "end_ms": 155480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 313,
+      "word": "files",
+      "start_ms": 155480,
+      "end_ms": 156000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 314,
+      "word": "to",
+      "start_ms": 156000,
+      "end_ms": 156900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 315,
+      "word": "configure",
+      "start_ms": 156900,
+      "end_ms": 157360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 316,
+      "word": "dashboards.",
+      "start_ms": 157360,
+      "end_ms": 158000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 317,
+      "word": "It",
+      "start_ms": 158520,
+      "end_ms": 159080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 318,
+      "word": "is",
+      "start_ms": 159080,
+      "end_ms": 159280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 319,
+      "word": "a",
+      "start_ms": 159280,
+      "end_ms": 159480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 320,
+      "word": "more",
+      "start_ms": 159480,
+      "end_ms": 159900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 321,
+      "word": "advanced",
+      "start_ms": 159900,
+      "end_ms": 160660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 322,
+      "word": "method,",
+      "start_ms": 160660,
+      "end_ms": 161700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 323,
+      "word": "but",
+      "start_ms": 161860,
+      "end_ms": 162100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 324,
+      "word": "I",
+      "start_ms": 162100,
+      "end_ms": 162320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 325,
+      "word": "highly",
+      "start_ms": 162320,
+      "end_ms": 162580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 326,
+      "word": "recommend",
+      "start_ms": 162580,
+      "end_ms": 162980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 327,
+      "word": "it.",
+      "start_ms": 162980,
+      "end_ms": 163340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 328,
+      "word": "And",
+      "start_ms": 163340,
+      "end_ms": 164440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 329,
+      "word": "I",
+      "start_ms": 164440,
+      "end_ms": 164760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 330,
+      "word": "use",
+      "start_ms": 164760,
+      "end_ms": 164940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 331,
+      "word": "the",
+      "start_ms": 164940,
+      "end_ms": 165180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 332,
+      "word": "following",
+      "start_ms": 165180,
+      "end_ms": 165400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 333,
+      "word": "tools",
+      "start_ms": 165400,
+      "end_ms": 165940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 334,
+      "word": "to",
+      "start_ms": 165940,
+      "end_ms": 166160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 335,
+      "word": "make",
+      "start_ms": 166160,
+      "end_ms": 166340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 336,
+      "word": "life",
+      "start_ms": 166340,
+      "end_ms": 166640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 337,
+      "word": "easier.",
+      "start_ms": 166640,
+      "end_ms": 167060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 338,
+      "word": "The",
+      "start_ms": 168060,
+      "end_ms": 168700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 339,
+      "word": "first",
+      "start_ms": 168700,
+      "end_ms": 168920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 340,
+      "word": "tool",
+      "start_ms": 168920,
+      "end_ms": 169300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 341,
+      "word": "is",
+      "start_ms": 169300,
+      "end_ms": 169620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 342,
+      "word": "SambaShare",
+      "start_ms": 169620,
+      "end_ms": 170440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 343,
+      "word": "add",
+      "start_ms": 170440,
+      "end_ms": 170760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 344,
+      "word": "-on",
+      "start_ms": 170760,
+      "end_ms": 170920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 345,
+      "word": "in",
+      "start_ms": 170920,
+      "end_ms": 171460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 346,
+      "word": "Home",
+      "start_ms": 171460,
+      "end_ms": 171640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 347,
+      "word": "Assistant",
+      "start_ms": 171640,
+      "end_ms": 171980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 348,
+      "word": "where",
+      "start_ms": 171980,
+      "end_ms": 172920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 349,
+      "word": "you",
+      "start_ms": 172920,
+      "end_ms": 173120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 350,
+      "word": "can",
+      "start_ms": 173120,
+      "end_ms": 173420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 351,
+      "word": "mount",
+      "start_ms": 173420,
+      "end_ms": 173800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 352,
+      "word": "Home",
+      "start_ms": 173800,
+      "end_ms": 174200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 353,
+      "word": "Assistant",
+      "start_ms": 174200,
+      "end_ms": 174560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 354,
+      "word": "storage",
+      "start_ms": 174560,
+      "end_ms": 175180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 355,
+      "word": "on",
+      "start_ms": 175180,
+      "end_ms": 175580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 356,
+      "word": "your",
+      "start_ms": 175580,
+      "end_ms": 175740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 357,
+      "word": "computer.",
+      "start_ms": 175740,
+      "end_ms": 176280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 358,
+      "word": "And",
+      "start_ms": 176960,
+      "end_ms": 177540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 359,
+      "word": "the",
+      "start_ms": 177540,
+      "end_ms": 177760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 360,
+      "word": "add",
+      "start_ms": 177760,
+      "end_ms": 178040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 361,
+      "word": "-on",
+      "start_ms": 178040,
+      "end_ms": 178160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 362,
+      "word": "configuration",
+      "start_ms": 178160,
+      "end_ms": 178640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 363,
+      "word": "is",
+      "start_ms": 178640,
+      "end_ms": 179360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 364,
+      "word": "pretty",
+      "start_ms": 179360,
+      "end_ms": 179860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 365,
+      "word": "straightforward,",
+      "start_ms": 179860,
+      "end_ms": 180560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 366,
+      "word": "like",
+      "start_ms": 181240,
+      "end_ms": 181620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 367,
+      "word": "adding",
+      "start_ms": 181620,
+      "end_ms": 181980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 368,
+      "word": "username,",
+      "start_ms": 181980,
+      "end_ms": 182500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 369,
+      "word": "password,",
+      "start_ms": 182800,
+      "end_ms": 183200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 370,
+      "word": "allowing",
+      "start_ms": 183880,
+      "end_ms": 184440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 371,
+      "word": "or",
+      "start_ms": 184440,
+      "end_ms": 184720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 372,
+      "word": "enabling",
+      "start_ms": 184720,
+      "end_ms": 185120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 373,
+      "word": "shares,",
+      "start_ms": 185120,
+      "end_ms": 186100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 374,
+      "word": "in",
+      "start_ms": 186980,
+      "end_ms": 187080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 375,
+      "word": "this",
+      "start_ms": 187080,
+      "end_ms": 187260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 376,
+      "word": "case,",
+      "start_ms": 187260,
+      "end_ms": 187500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 377,
+      "word": "conflict",
+      "start_ms": 187580,
+      "end_ms": 187920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 378,
+      "word": "share,",
+      "start_ms": 187920,
+      "end_ms": 188300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 379,
+      "word": "and",
+      "start_ms": 188300,
+      "end_ms": 189160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 380,
+      "word": "also",
+      "start_ms": 189160,
+      "end_ms": 189520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 381,
+      "word": "allowing",
+      "start_ms": 189520,
+      "end_ms": 189980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 382,
+      "word": "the",
+      "start_ms": 189980,
+      "end_ms": 190240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 383,
+      "word": "network",
+      "start_ms": 190240,
+      "end_ms": 190740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 384,
+      "word": "cider",
+      "start_ms": 190740,
+      "end_ms": 191220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 385,
+      "word": "block",
+      "start_ms": 191220,
+      "end_ms": 191660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 386,
+      "word": "for",
+      "start_ms": 191660,
+      "end_ms": 192620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 387,
+      "word": "your",
+      "start_ms": 192620,
+      "end_ms": 192840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 388,
+      "word": "Home",
+      "start_ms": 192840,
+      "end_ms": 193120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 389,
+      "word": "Assistant",
+      "start_ms": 193120,
+      "end_ms": 193460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 390,
+      "word": "and",
+      "start_ms": 193460,
+      "end_ms": 194180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 391,
+      "word": "your",
+      "start_ms": 194180,
+      "end_ms": 194420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 392,
+      "word": "PC",
+      "start_ms": 194420,
+      "end_ms": 194800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 393,
+      "word": "that",
+      "start_ms": 194800,
+      "end_ms": 195800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 394,
+      "word": "lives",
+      "start_ms": 195800,
+      "end_ms": 196040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 395,
+      "word": "on",
+      "start_ms": 196040,
+      "end_ms": 196260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 396,
+      "word": "the",
+      "start_ms": 196260,
+      "end_ms": 196360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 397,
+      "word": "same",
+      "start_ms": 196360,
+      "end_ms": 196580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 398,
+      "word": "subnet.",
+      "start_ms": 196580,
+      "end_ms": 197040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 399,
+      "word": "So",
+      "start_ms": 197740,
+      "end_ms": 198060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 400,
+      "word": "far,",
+      "start_ms": 198060,
+      "end_ms": 198360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 401,
+      "word": "so",
+      "start_ms": 198520,
+      "end_ms": 198620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 402,
+      "word": "good.",
+      "start_ms": 198620,
+      "end_ms": 198900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 403,
+      "word": "So",
+      "start_ms": 199200,
+      "end_ms": 199340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 404,
+      "word": "now",
+      "start_ms": 199340,
+      "end_ms": 199940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 405,
+      "word": "we",
+      "start_ms": 199940,
+      "end_ms": 200180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 406,
+      "word": "have",
+      "start_ms": 200180,
+      "end_ms": 200400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 407,
+      "word": "enabled",
+      "start_ms": 200400,
+      "end_ms": 200860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 408,
+      "word": "SambaShare",
+      "start_ms": 200860,
+      "end_ms": 201780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 409,
+      "word": "on",
+      "start_ms": 201780,
+      "end_ms": 202240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 410,
+      "word": "Home",
+      "start_ms": 202240,
+      "end_ms": 202500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 411,
+      "word": "Assistant",
+      "start_ms": 202500,
+      "end_ms": 202940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 412,
+      "word": "add",
+      "start_ms": 202940,
+      "end_ms": 203520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 413,
+      "word": "-ons.",
+      "start_ms": 203520,
+      "end_ms": 203760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 414,
+      "word": "Now",
+      "start_ms": 204200,
+      "end_ms": 204640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 415,
+      "word": "we",
+      "start_ms": 204640,
+      "end_ms": 204820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 416,
+      "word": "can",
+      "start_ms": 204820,
+      "end_ms": 205000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 417,
+      "word": "mount",
+      "start_ms": 205000,
+      "end_ms": 205380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 418,
+      "word": "it",
+      "start_ms": 205380,
+      "end_ms": 205580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 419,
+      "word": "on",
+      "start_ms": 205580,
+      "end_ms": 205820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 420,
+      "word": "our",
+      "start_ms": 205820,
+      "end_ms": 206140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 421,
+      "word": "client",
+      "start_ms": 206140,
+      "end_ms": 206660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 422,
+      "word": "computers.",
+      "start_ms": 206660,
+      "end_ms": 207340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 423,
+      "word": "It",
+      "start_ms": 208180,
+      "end_ms": 208460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 424,
+      "word": "can",
+      "start_ms": 208460,
+      "end_ms": 208620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 425,
+      "word": "be",
+      "start_ms": 208620,
+      "end_ms": 208800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 426,
+      "word": "a",
+      "start_ms": 208800,
+      "end_ms": 208960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 427,
+      "word": "Mac,",
+      "start_ms": 208960,
+      "end_ms": 209140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 428,
+      "word": "Linux,",
+      "start_ms": 209400,
+      "end_ms": 209620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 429,
+      "word": "or",
+      "start_ms": 209840,
+      "end_ms": 209980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 430,
+      "word": "Windows.",
+      "start_ms": 209980,
+      "end_ms": 210360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 431,
+      "word": "And",
+      "start_ms": 211360,
+      "end_ms": 212160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 432,
+      "word": "the",
+      "start_ms": 212160,
+      "end_ms": 212400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 433,
+      "word": "second",
+      "start_ms": 212400,
+      "end_ms": 212780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 434,
+      "word": "tool",
+      "start_ms": 212780,
+      "end_ms": 213300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 435,
+      "word": "is",
+      "start_ms": 213300,
+      "end_ms": 213780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 436,
+      "word": "VS",
+      "start_ms": 213780,
+      "end_ms": 214320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 437,
+      "word": "Code",
+      "start_ms": 214320,
+      "end_ms": 214620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 438,
+      "word": "and",
+      "start_ms": 214620,
+      "end_ms": 215840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 439,
+      "word": "a",
+      "start_ms": 215840,
+      "end_ms": 216180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 440,
+      "word": "handy",
+      "start_ms": 216180,
+      "end_ms": 216600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 441,
+      "word": "VS",
+      "start_ms": 216600,
+      "end_ms": 217340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 442,
+      "word": "Code",
+      "start_ms": 217340,
+      "end_ms": 217720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 443,
+      "word": "extension",
+      "start_ms": 217720,
+      "end_ms": 218240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 444,
+      "word": "called",
+      "start_ms": 218240,
+      "end_ms": 218840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 445,
+      "word": "Home",
+      "start_ms": 218840,
+      "end_ms": 219280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 446,
+      "word": "Assistant",
+      "start_ms": 219280,
+      "end_ms": 219680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 447,
+      "word": "Config",
+      "start_ms": 219680,
+      "end_ms": 220260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 448,
+      "word": "Helper.",
+      "start_ms": 220260,
+      "end_ms": 220780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 449,
+      "word": "Now",
+      "start_ms": 221340,
+      "end_ms": 222040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 450,
+      "word": "open",
+      "start_ms": 222040,
+      "end_ms": 222460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 451,
+      "word": "VS",
+      "start_ms": 222460,
+      "end_ms": 222880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 452,
+      "word": "Code",
+      "start_ms": 222880,
+      "end_ms": 223260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 453,
+      "word": "and",
+      "start_ms": 223260,
+      "end_ms": 224060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 454,
+      "word": "add",
+      "start_ms": 224060,
+      "end_ms": 224480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 455,
+      "word": "the",
+      "start_ms": 224480,
+      "end_ms": 224660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 456,
+      "word": "mounted",
+      "start_ms": 224660,
+      "end_ms": 224960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 457,
+      "word": "drive",
+      "start_ms": 224960,
+      "end_ms": 225420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 458,
+      "word": "into",
+      "start_ms": 225420,
+      "end_ms": 225900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 459,
+      "word": "your",
+      "start_ms": 225900,
+      "end_ms": 226180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 460,
+      "word": "workspace.",
+      "start_ms": 226180,
+      "end_ms": 226680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 461,
+      "word": "Next,",
+      "start_ms": 228140,
+      "end_ms": 229040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 462,
+      "word": "find",
+      "start_ms": 229300,
+      "end_ms": 229480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 463,
+      "word": "your",
+      "start_ms": 229480,
+      "end_ms": 229900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 464,
+      "word": "main",
+      "start_ms": 229900,
+      "end_ms": 231000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 465,
+      "word": "configuration",
+      "start_ms": 231000,
+      "end_ms": 231520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 466,
+      "word": "YAML",
+      "start_ms": 231520,
+      "end_ms": 232280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 467,
+      "word": "file",
+      "start_ms": 232280,
+      "end_ms": 232660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 468,
+      "word": "where",
+      "start_ms": 232660,
+      "end_ms": 234320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 469,
+      "word": "we",
+      "start_ms": 234320,
+      "end_ms": 234520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 470,
+      "word": "will",
+      "start_ms": 234520,
+      "end_ms": 234700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 471,
+      "word": "add",
+      "start_ms": 234700,
+      "end_ms": 235000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 472,
+      "word": "a",
+      "start_ms": 235000,
+      "end_ms": 235140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 473,
+      "word": "dashboard",
+      "start_ms": 235140,
+      "end_ms": 235600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 474,
+      "word": "section.",
+      "start_ms": 235600,
+      "end_ms": 236040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 475,
+      "word": "Now",
+      "start_ms": 238299,
+      "end_ms": 239200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 476,
+      "word": "let's",
+      "start_ms": 239200,
+      "end_ms": 239580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 477,
+      "word": "copy",
+      "start_ms": 239580,
+      "end_ms": 239940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 478,
+      "word": "this",
+      "start_ms": 239940,
+      "end_ms": 240400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 479,
+      "word": "section",
+      "start_ms": 240400,
+      "end_ms": 242180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 480,
+      "word": "and",
+      "start_ms": 242180,
+      "end_ms": 243820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 481,
+      "word": "paste",
+      "start_ms": 243820,
+      "end_ms": 244140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 482,
+      "word": "it",
+      "start_ms": 244140,
+      "end_ms": 244400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 483,
+      "word": "into",
+      "start_ms": 244400,
+      "end_ms": 244800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 484,
+      "word": "a",
+      "start_ms": 244800,
+      "end_ms": 245580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 485,
+      "word": "new",
+      "start_ms": 245580,
+      "end_ms": 245740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 486,
+      "word": "section",
+      "start_ms": 245740,
+      "end_ms": 246100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 487,
+      "word": "and",
+      "start_ms": 246100,
+      "end_ms": 247400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 488,
+      "word": "rename",
+      "start_ms": 247400,
+      "end_ms": 248280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 489,
+      "word": "it",
+      "start_ms": 248280,
+      "end_ms": 248600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 490,
+      "word": "to",
+      "start_ms": 248600,
+      "end_ms": 248860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 491,
+      "word": "demo.",
+      "start_ms": 248860,
+      "end_ms": 249300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 492,
+      "word": "Give",
+      "start_ms": 252200,
+      "end_ms": 253100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 493,
+      "word": "it",
+      "start_ms": 253100,
+      "end_ms": 253300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 494,
+      "word": "a",
+      "start_ms": 253300,
+      "end_ms": 253480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 495,
+      "word": "new",
+      "start_ms": 253480,
+      "end_ms": 253640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 496,
+      "word": "title.",
+      "start_ms": 253640,
+      "end_ms": 254080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 497,
+      "word": "Let's",
+      "start_ms": 255420,
+      "end_ms": 256260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 498,
+      "word": "call",
+      "start_ms": 256260,
+      "end_ms": 256440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 499,
+      "word": "it",
+      "start_ms": 256440,
+      "end_ms": 256600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 500,
+      "word": "demo",
+      "start_ms": 256600,
+      "end_ms": 256779,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 501,
+      "word": "YAML",
+      "start_ms": 256779,
+      "end_ms": 257320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 502,
+      "word": "and",
+      "start_ms": 257320,
+      "end_ms": 259420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 503,
+      "word": "also",
+      "start_ms": 259420,
+      "end_ms": 259899,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 504,
+      "word": "call",
+      "start_ms": 259899,
+      "end_ms": 260720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 505,
+      "word": "it",
+      "start_ms": 260720,
+      "end_ms": 261060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 506,
+      "word": "demo",
+      "start_ms": 261060,
+      "end_ms": 262200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 507,
+      "word": "dashboard.",
+      "start_ms": 262200,
+      "end_ms": 263120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 508,
+      "word": "Or",
+      "start_ms": 264880,
+      "end_ms": 265600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 509,
+      "word": "demo",
+      "start_ms": 265600,
+      "end_ms": 265840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 510,
+      "word": "YAML",
+      "start_ms": 265840,
+      "end_ms": 266240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 511,
+      "word": "to",
+      "start_ms": 266240,
+      "end_ms": 266440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 512,
+      "word": "differentiate",
+      "start_ms": 266440,
+      "end_ms": 266900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 513,
+      "word": "from",
+      "start_ms": 266900,
+      "end_ms": 267340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 514,
+      "word": "the",
+      "start_ms": 267340,
+      "end_ms": 267540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 515,
+      "word": "UI",
+      "start_ms": 267540,
+      "end_ms": 267800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 516,
+      "word": "one.",
+      "start_ms": 267800,
+      "end_ms": 268180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 517,
+      "word": "So",
+      "start_ms": 269180,
+      "end_ms": 269720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 518,
+      "word": "far",
+      "start_ms": 269720,
+      "end_ms": 269920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 519,
+      "word": "so",
+      "start_ms": 269920,
+      "end_ms": 270240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 520,
+      "word": "good.",
+      "start_ms": 270240,
+      "end_ms": 270480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 521,
+      "word": "So",
+      "start_ms": 270700,
+      "end_ms": 270800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 522,
+      "word": "we",
+      "start_ms": 270800,
+      "end_ms": 271080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 523,
+      "word": "are",
+      "start_ms": 271080,
+      "end_ms": 271320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 524,
+      "word": "referencing",
+      "start_ms": 271320,
+      "end_ms": 271960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 525,
+      "word": "a",
+      "start_ms": 271960,
+      "end_ms": 272980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 526,
+      "word": "folder",
+      "start_ms": 272980,
+      "end_ms": 273320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 527,
+      "word": "called",
+      "start_ms": 273320,
+      "end_ms": 273860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 528,
+      "word": "or",
+      "start_ms": 273860,
+      "end_ms": 274180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 529,
+      "word": "directory",
+      "start_ms": 274180,
+      "end_ms": 274500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 530,
+      "word": "called",
+      "start_ms": 274500,
+      "end_ms": 274900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 531,
+      "word": "dashboards",
+      "start_ms": 274900,
+      "end_ms": 275720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 532,
+      "word": "and",
+      "start_ms": 275720,
+      "end_ms": 277240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 533,
+      "word": "demo",
+      "start_ms": 277240,
+      "end_ms": 277680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 534,
+      "word": "YAML",
+      "start_ms": 277680,
+      "end_ms": 278080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 535,
+      "word": "file.",
+      "start_ms": 278080,
+      "end_ms": 278460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 536,
+      "word": "So",
+      "start_ms": 279000,
+      "end_ms": 279340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 537,
+      "word": "let's",
+      "start_ms": 279340,
+      "end_ms": 279840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 538,
+      "word": "go",
+      "start_ms": 279840,
+      "end_ms": 280020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 539,
+      "word": "to",
+      "start_ms": 280020,
+      "end_ms": 280180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 540,
+      "word": "dashboards",
+      "start_ms": 280180,
+      "end_ms": 280920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 541,
+      "word": "and",
+      "start_ms": 280920,
+      "end_ms": 281320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 542,
+      "word": "then",
+      "start_ms": 281320,
+      "end_ms": 281540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 543,
+      "word": "let's",
+      "start_ms": 281540,
+      "end_ms": 281880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 544,
+      "word": "go",
+      "start_ms": 281880,
+      "end_ms": 282180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 545,
+      "word": "to",
+      "start_ms": 282180,
+      "end_ms": 282840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 546,
+      "word": "our",
+      "start_ms": 282840,
+      "end_ms": 283240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 547,
+      "word": "downloaded",
+      "start_ms": 283240,
+      "end_ms": 283860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 548,
+      "word": "assets,",
+      "start_ms": 283860,
+      "end_ms": 284360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 549,
+      "word": "get",
+      "start_ms": 284840,
+      "end_ms": 285020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 550,
+      "word": "the",
+      "start_ms": 285020,
+      "end_ms": 285220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 551,
+      "word": "demo",
+      "start_ms": 285220,
+      "end_ms": 285540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 552,
+      "word": "YAML",
+      "start_ms": 285540,
+      "end_ms": 285980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 553,
+      "word": "file,",
+      "start_ms": 285980,
+      "end_ms": 286400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 554,
+      "word": "copy",
+      "start_ms": 286760,
+      "end_ms": 287380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 555,
+      "word": "it",
+      "start_ms": 287380,
+      "end_ms": 287660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 556,
+      "word": "and",
+      "start_ms": 287660,
+      "end_ms": 287800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 557,
+      "word": "paste",
+      "start_ms": 287800,
+      "end_ms": 288160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 558,
+      "word": "it",
+      "start_ms": 288160,
+      "end_ms": 288400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 559,
+      "word": "under",
+      "start_ms": 288400,
+      "end_ms": 288760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 560,
+      "word": "dashboards.",
+      "start_ms": 288760,
+      "end_ms": 289560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 561,
+      "word": "We",
+      "start_ms": 289560,
+      "end_ms": 290680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 562,
+      "word": "can",
+      "start_ms": 290680,
+      "end_ms": 290860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 563,
+      "word": "rename",
+      "start_ms": 290860,
+      "end_ms": 291140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 564,
+      "word": "it",
+      "start_ms": 291140,
+      "end_ms": 291360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 565,
+      "word": "to",
+      "start_ms": 291360,
+      "end_ms": 291560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 566,
+      "word": "YAML",
+      "start_ms": 291560,
+      "end_ms": 292340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 567,
+      "word": "or",
+      "start_ms": 292340,
+      "end_ms": 292580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 568,
+      "word": "YAML,",
+      "start_ms": 292580,
+      "end_ms": 293200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 569,
+      "word": "same",
+      "start_ms": 293200,
+      "end_ms": 293540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 570,
+      "word": "result",
+      "start_ms": 293540,
+      "end_ms": 293920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 571,
+      "word": "really.",
+      "start_ms": 293920,
+      "end_ms": 294300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 572,
+      "word": "Now",
+      "start_ms": 295260,
+      "end_ms": 295560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 573,
+      "word": "let's",
+      "start_ms": 295560,
+      "end_ms": 295840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 574,
+      "word": "talk",
+      "start_ms": 295840,
+      "end_ms": 296060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 575,
+      "word": "about",
+      "start_ms": 296060,
+      "end_ms": 296380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 576,
+      "word": "the",
+      "start_ms": 296380,
+      "end_ms": 296580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 577,
+      "word": "Home",
+      "start_ms": 296580,
+      "end_ms": 296840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 578,
+      "word": "Assistant",
+      "start_ms": 296840,
+      "end_ms": 297280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 579,
+      "word": "Config",
+      "start_ms": 297280,
+      "end_ms": 297820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 580,
+      "word": "Helper",
+      "start_ms": 297820,
+      "end_ms": 298320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 581,
+      "word": "extension.",
+      "start_ms": 298320,
+      "end_ms": 298800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 582,
+      "word": "We",
+      "start_ms": 299500,
+      "end_ms": 299900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 583,
+      "word": "are",
+      "start_ms": 299900,
+      "end_ms": 300100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 584,
+      "word": "going",
+      "start_ms": 300100,
+      "end_ms": 300400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 585,
+      "word": "to",
+      "start_ms": 300400,
+      "end_ms": 300760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 586,
+      "word": "change",
+      "start_ms": 300760,
+      "end_ms": 301360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 587,
+      "word": "the",
+      "start_ms": 301360,
+      "end_ms": 301780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 588,
+      "word": "language",
+      "start_ms": 301780,
+      "end_ms": 302280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 589,
+      "word": "setting",
+      "start_ms": 302280,
+      "end_ms": 302840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 590,
+      "word": "of",
+      "start_ms": 302840,
+      "end_ms": 303360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 591,
+      "word": "the",
+      "start_ms": 303360,
+      "end_ms": 303560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 592,
+      "word": "YAML",
+      "start_ms": 303560,
+      "end_ms": 304020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 593,
+      "word": "file",
+      "start_ms": 304020,
+      "end_ms": 304800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 594,
+      "word": "to",
+      "start_ms": 304800,
+      "end_ms": 305520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 595,
+      "word": "use",
+      "start_ms": 305520,
+      "end_ms": 305860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 596,
+      "word": "language",
+      "start_ms": 305860,
+      "end_ms": 306400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 597,
+      "word": "Home",
+      "start_ms": 306400,
+      "end_ms": 307220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 598,
+      "word": "Assistant.",
+      "start_ms": 307220,
+      "end_ms": 307660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 599,
+      "word": "This",
+      "start_ms": 308460,
+      "end_ms": 308920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 600,
+      "word": "will",
+      "start_ms": 308920,
+      "end_ms": 309080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 601,
+      "word": "allow",
+      "start_ms": 309080,
+      "end_ms": 309320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 602,
+      "word": "us",
+      "start_ms": 309320,
+      "end_ms": 309600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 603,
+      "word": "to",
+      "start_ms": 309600,
+      "end_ms": 309740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 604,
+      "word": "have",
+      "start_ms": 309740,
+      "end_ms": 310040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 605,
+      "word": "autocomplete",
+      "start_ms": 310040,
+      "end_ms": 311160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 606,
+      "word": "on",
+      "start_ms": 311160,
+      "end_ms": 312420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 607,
+      "word": "our",
+      "start_ms": 312420,
+      "end_ms": 312700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 608,
+      "word": "actual",
+      "start_ms": 312700,
+      "end_ms": 313320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 609,
+      "word": "device",
+      "start_ms": 313320,
+      "end_ms": 313860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 610,
+      "word": "entity",
+      "start_ms": 313860,
+      "end_ms": 314480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 611,
+      "word": "names",
+      "start_ms": 314480,
+      "end_ms": 314960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 612,
+      "word": "configured",
+      "start_ms": 314960,
+      "end_ms": 315520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 613,
+      "word": "in",
+      "start_ms": 315520,
+      "end_ms": 315960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 614,
+      "word": "Home",
+      "start_ms": 315960,
+      "end_ms": 316160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 615,
+      "word": "Assistant.",
+      "start_ms": 316160,
+      "end_ms": 316560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 616,
+      "word": "Of",
+      "start_ms": 317400,
+      "end_ms": 317780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 617,
+      "word": "course",
+      "start_ms": 317780,
+      "end_ms": 318040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 618,
+      "word": "that",
+      "start_ms": 318040,
+      "end_ms": 318300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 619,
+      "word": "is",
+      "start_ms": 318300,
+      "end_ms": 318460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 620,
+      "word": "after",
+      "start_ms": 318460,
+      "end_ms": 318860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 621,
+      "word": "you",
+      "start_ms": 318860,
+      "end_ms": 319100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 622,
+      "word": "have",
+      "start_ms": 319100,
+      "end_ms": 319340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 623,
+      "word": "configured",
+      "start_ms": 319340,
+      "end_ms": 319920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 624,
+      "word": "your",
+      "start_ms": 319920,
+      "end_ms": 320320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 625,
+      "word": "extension",
+      "start_ms": 320320,
+      "end_ms": 320900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 626,
+      "word": "correctly.",
+      "start_ms": 320900,
+      "end_ms": 322260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 627,
+      "word": "Right,",
+      "start_ms": 325180,
+      "end_ms": 325940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 628,
+      "word": "so",
+      "start_ms": 326060,
+      "end_ms": 326420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 629,
+      "word": "let's",
+      "start_ms": 326420,
+      "end_ms": 326860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 630,
+      "word": "save",
+      "start_ms": 326860,
+      "end_ms": 327100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 631,
+      "word": "our",
+      "start_ms": 327100,
+      "end_ms": 327340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 632,
+      "word": "work",
+      "start_ms": 327340,
+      "end_ms": 327800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 633,
+      "word": "and",
+      "start_ms": 327800,
+      "end_ms": 328380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 634,
+      "word": "go",
+      "start_ms": 328380,
+      "end_ms": 328700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 635,
+      "word": "back",
+      "start_ms": 328700,
+      "end_ms": 328960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 636,
+      "word": "to",
+      "start_ms": 328960,
+      "end_ms": 329280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 637,
+      "word": "Home",
+      "start_ms": 329280,
+      "end_ms": 329580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 638,
+      "word": "Assistant.",
+      "start_ms": 329580,
+      "end_ms": 329880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 639,
+      "word": "Then",
+      "start_ms": 330660,
+      "end_ms": 331420,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 640,
+      "word": "let's",
+      "start_ms": 331420,
+      "end_ms": 331800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 641,
+      "word": "go",
+      "start_ms": 331800,
+      "end_ms": 331980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 642,
+      "word": "to",
+      "start_ms": 331980,
+      "end_ms": 332200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 643,
+      "word": "the",
+      "start_ms": 332200,
+      "end_ms": 332460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 644,
+      "word": "file",
+      "start_ms": 332460,
+      "end_ms": 332880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 645,
+      "word": "editor",
+      "start_ms": 332880,
+      "end_ms": 333440,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 646,
+      "word": "and",
+      "start_ms": 333440,
+      "end_ms": 334660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 647,
+      "word": "make",
+      "start_ms": 334660,
+      "end_ms": 334940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 648,
+      "word": "sure",
+      "start_ms": 334940,
+      "end_ms": 335260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 649,
+      "word": "that",
+      "start_ms": 335260,
+      "end_ms": 335620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 650,
+      "word": "the",
+      "start_ms": 335620,
+      "end_ms": 335840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 651,
+      "word": "changes",
+      "start_ms": 335840,
+      "end_ms": 336280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 652,
+      "word": "we",
+      "start_ms": 336280,
+      "end_ms": 336620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 653,
+      "word": "have",
+      "start_ms": 336620,
+      "end_ms": 336820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 654,
+      "word": "done",
+      "start_ms": 336820,
+      "end_ms": 337260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 655,
+      "word": "did",
+      "start_ms": 337260,
+      "end_ms": 339060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 656,
+      "word": "indeed",
+      "start_ms": 339060,
+      "end_ms": 339500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 657,
+      "word": "reflect",
+      "start_ms": 339500,
+      "end_ms": 340100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 658,
+      "word": "on",
+      "start_ms": 340100,
+      "end_ms": 340680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 659,
+      "word": "the",
+      "start_ms": 340680,
+      "end_ms": 340940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 660,
+      "word": "Home",
+      "start_ms": 340940,
+      "end_ms": 341240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 661,
+      "word": "Assistant",
+      "start_ms": 341240,
+      "end_ms": 341680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 662,
+      "word": "disk",
+      "start_ms": 341680,
+      "end_ms": 342880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 663,
+      "word": "or",
+      "start_ms": 342880,
+      "end_ms": 343660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 664,
+      "word": "drive.",
+      "start_ms": 343660,
+      "end_ms": 344040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 665,
+      "word": "And",
+      "start_ms": 344040,
+      "end_ms": 344980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 666,
+      "word": "we",
+      "start_ms": 344980,
+      "end_ms": 345300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 667,
+      "word": "can",
+      "start_ms": 345300,
+      "end_ms": 345480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 668,
+      "word": "see",
+      "start_ms": 345480,
+      "end_ms": 345720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 669,
+      "word": "that",
+      "start_ms": 345720,
+      "end_ms": 346080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 670,
+      "word": "indeed",
+      "start_ms": 346080,
+      "end_ms": 347140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 671,
+      "word": "our",
+      "start_ms": 347140,
+      "end_ms": 347640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 672,
+      "word": "demo",
+      "start_ms": 347640,
+      "end_ms": 348840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 673,
+      "word": "YAML",
+      "start_ms": 348840,
+      "end_ms": 349240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 674,
+      "word": "dashboard",
+      "start_ms": 349240,
+      "end_ms": 349760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 675,
+      "word": "section",
+      "start_ms": 349760,
+      "end_ms": 350300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 676,
+      "word": "is",
+      "start_ms": 350300,
+      "end_ms": 350740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 677,
+      "word": "there,",
+      "start_ms": 350740,
+      "end_ms": 351120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 678,
+      "word": "which",
+      "start_ms": 351500,
+      "end_ms": 351780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 679,
+      "word": "is",
+      "start_ms": 351780,
+      "end_ms": 351880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 680,
+      "word": "good.",
+      "start_ms": 351880,
+      "end_ms": 352160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 681,
+      "word": "And",
+      "start_ms": 353240,
+      "end_ms": 354020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 682,
+      "word": "next",
+      "start_ms": 354020,
+      "end_ms": 354360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 683,
+      "word": "we",
+      "start_ms": 354360,
+      "end_ms": 354560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 684,
+      "word": "need",
+      "start_ms": 354560,
+      "end_ms": 354780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 685,
+      "word": "to",
+      "start_ms": 354780,
+      "end_ms": 355020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 686,
+      "word": "restart",
+      "start_ms": 355020,
+      "end_ms": 355460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 687,
+      "word": "Home",
+      "start_ms": 355460,
+      "end_ms": 355840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 688,
+      "word": "Assistant",
+      "start_ms": 355840,
+      "end_ms": 356240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 689,
+      "word": "for",
+      "start_ms": 356240,
+      "end_ms": 356700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 690,
+      "word": "these",
+      "start_ms": 356700,
+      "end_ms": 356940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 691,
+      "word": "YAML",
+      "start_ms": 356940,
+      "end_ms": 357480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 692,
+      "word": "based",
+      "start_ms": 357480,
+      "end_ms": 358020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 693,
+      "word": "dashboards.",
+      "start_ms": 358020,
+      "end_ms": 358409,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 694,
+      "word": "So",
+      "start_ms": 359040,
+      "end_ms": 359040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 695,
+      "word": "let's",
+      "start_ms": 359040,
+      "end_ms": 359320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 696,
+      "word": "restart.",
+      "start_ms": 359320,
+      "end_ms": 359760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 697,
+      "word": "Then",
+      "start_ms": 360500,
+      "end_ms": 360840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 698,
+      "word": "we",
+      "start_ms": 360840,
+      "end_ms": 361080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 699,
+      "word": "will",
+      "start_ms": 361080,
+      "end_ms": 361280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 700,
+      "word": "see",
+      "start_ms": 361280,
+      "end_ms": 361640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 701,
+      "word": "a",
+      "start_ms": 361640,
+      "end_ms": 361940,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 702,
+      "word": "new",
+      "start_ms": 361940,
+      "end_ms": 362140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 703,
+      "word": "dashboard",
+      "start_ms": 362140,
+      "end_ms": 362580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 704,
+      "word": "appears",
+      "start_ms": 362580,
+      "end_ms": 363180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 705,
+      "word": "on",
+      "start_ms": 363180,
+      "end_ms": 363680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 706,
+      "word": "the",
+      "start_ms": 363680,
+      "end_ms": 363800,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 707,
+      "word": "left,",
+      "start_ms": 363800,
+      "end_ms": 364120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 708,
+      "word": "demo",
+      "start_ms": 364620,
+      "end_ms": 364980,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 709,
+      "word": "YAML.",
+      "start_ms": 364980,
+      "end_ms": 365560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 710,
+      "word": "And",
+      "start_ms": 366359,
+      "end_ms": 366780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 711,
+      "word": "if",
+      "start_ms": 366780,
+      "end_ms": 367080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 712,
+      "word": "I",
+      "start_ms": 367080,
+      "end_ms": 367220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 713,
+      "word": "try",
+      "start_ms": 367220,
+      "end_ms": 367480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 714,
+      "word": "to",
+      "start_ms": 367480,
+      "end_ms": 367760,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 715,
+      "word": "edit",
+      "start_ms": 367760,
+      "end_ms": 368180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 716,
+      "word": "this",
+      "start_ms": 368180,
+      "end_ms": 368540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 717,
+      "word": "dashboard",
+      "start_ms": 368540,
+      "end_ms": 369120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 718,
+      "word": "from",
+      "start_ms": 369120,
+      "end_ms": 369540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 719,
+      "word": "the",
+      "start_ms": 369540,
+      "end_ms": 369840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 720,
+      "word": "UI,",
+      "start_ms": 369840,
+      "end_ms": 371260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 721,
+      "word": "it",
+      "start_ms": 371860,
+      "end_ms": 371960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 722,
+      "word": "will",
+      "start_ms": 371960,
+      "end_ms": 372240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 723,
+      "word": "fail,",
+      "start_ms": 372240,
+      "end_ms": 372680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 724,
+      "word": "which",
+      "start_ms": 372940,
+      "end_ms": 373180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 725,
+      "word": "is",
+      "start_ms": 373180,
+      "end_ms": 373460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 726,
+      "word": "good.",
+      "start_ms": 373460,
+      "end_ms": 373780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 727,
+      "word": "However,",
+      "start_ms": 374720,
+      "end_ms": 375400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 728,
+      "word": "the",
+      "start_ms": 375580,
+      "end_ms": 375740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 729,
+      "word": "dashboard",
+      "start_ms": 375740,
+      "end_ms": 376280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 730,
+      "word": "is",
+      "start_ms": 376280,
+      "end_ms": 376560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 731,
+      "word": "working",
+      "start_ms": 376560,
+      "end_ms": 376840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 732,
+      "word": "fine",
+      "start_ms": 376840,
+      "end_ms": 377280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 733,
+      "word": "and",
+      "start_ms": 377280,
+      "end_ms": 377780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 734,
+      "word": "it's",
+      "start_ms": 377780,
+      "end_ms": 378020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 735,
+      "word": "exactly",
+      "start_ms": 378020,
+      "end_ms": 378500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 736,
+      "word": "the",
+      "start_ms": 378500,
+      "end_ms": 378700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 737,
+      "word": "same",
+      "start_ms": 378700,
+      "end_ms": 378960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 738,
+      "word": "result",
+      "start_ms": 378960,
+      "end_ms": 379320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 739,
+      "word": "as",
+      "start_ms": 379320,
+      "end_ms": 379780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 740,
+      "word": "the",
+      "start_ms": 379780,
+      "end_ms": 380040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 741,
+      "word": "UI",
+      "start_ms": 380040,
+      "end_ms": 380880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 742,
+      "word": "dashboard.",
+      "start_ms": 380880,
+      "end_ms": 381540,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 743,
+      "word": "Great,",
+      "start_ms": 382260,
+      "end_ms": 382720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 744,
+      "word": "so",
+      "start_ms": 383140,
+      "end_ms": 383360,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 745,
+      "word": "some",
+      "start_ms": 383360,
+      "end_ms": 383820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 746,
+      "word": "final",
+      "start_ms": 383820,
+      "end_ms": 384220,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 747,
+      "word": "thoughts.",
+      "start_ms": 384220,
+      "end_ms": 384700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 748,
+      "word": "I",
+      "start_ms": 385600,
+      "end_ms": 385900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 749,
+      "word": "recommend",
+      "start_ms": 385900,
+      "end_ms": 386300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 750,
+      "word": "arranging",
+      "start_ms": 386300,
+      "end_ms": 387060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 751,
+      "word": "your",
+      "start_ms": 387060,
+      "end_ms": 387380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 752,
+      "word": "rooms",
+      "start_ms": 387380,
+      "end_ms": 387960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 753,
+      "word": "or",
+      "start_ms": 387960,
+      "end_ms": 388680,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 754,
+      "word": "views",
+      "start_ms": 388680,
+      "end_ms": 389060,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 755,
+      "word": "into",
+      "start_ms": 389060,
+      "end_ms": 389520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 756,
+      "word": "separate",
+      "start_ms": 389520,
+      "end_ms": 390000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 757,
+      "word": "files.",
+      "start_ms": 390000,
+      "end_ms": 390600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 758,
+      "word": "And",
+      "start_ms": 391420,
+      "end_ms": 392100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 759,
+      "word": "using",
+      "start_ms": 392100,
+      "end_ms": 392520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 760,
+      "word": "the",
+      "start_ms": 392520,
+      "end_ms": 392900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 761,
+      "word": "include",
+      "start_ms": 392900,
+      "end_ms": 394040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 762,
+      "word": "statement",
+      "start_ms": 394040,
+      "end_ms": 394600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 763,
+      "word": "to",
+      "start_ms": 394600,
+      "end_ms": 395020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 764,
+      "word": "have",
+      "start_ms": 395020,
+      "end_ms": 395340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 765,
+      "word": "this",
+      "start_ms": 395340,
+      "end_ms": 396000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 766,
+      "word": "nested",
+      "start_ms": 396000,
+      "end_ms": 396560,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 767,
+      "word": "setup,",
+      "start_ms": 396560,
+      "end_ms": 396960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 768,
+      "word": "this",
+      "start_ms": 397680,
+      "end_ms": 398080,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 769,
+      "word": "will",
+      "start_ms": 398080,
+      "end_ms": 398260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 770,
+      "word": "help",
+      "start_ms": 398260,
+      "end_ms": 398580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 771,
+      "word": "keeping",
+      "start_ms": 398580,
+      "end_ms": 399580,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 772,
+      "word": "things",
+      "start_ms": 399580,
+      "end_ms": 399960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 773,
+      "word": "organized",
+      "start_ms": 399960,
+      "end_ms": 400700,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 774,
+      "word": "and",
+      "start_ms": 400700,
+      "end_ms": 401000,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 775,
+      "word": "easy",
+      "start_ms": 401000,
+      "end_ms": 401260,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 776,
+      "word": "to",
+      "start_ms": 401260,
+      "end_ms": 401460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 777,
+      "word": "manage",
+      "start_ms": 401460,
+      "end_ms": 401880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 778,
+      "word": "because",
+      "start_ms": 402600,
+      "end_ms": 403040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 779,
+      "word": "these",
+      "start_ms": 403040,
+      "end_ms": 403300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 780,
+      "word": "configuration",
+      "start_ms": 403300,
+      "end_ms": 403740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 781,
+      "word": "files",
+      "start_ms": 403740,
+      "end_ms": 404340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 782,
+      "word": "can",
+      "start_ms": 404340,
+      "end_ms": 404620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 783,
+      "word": "get",
+      "start_ms": 404620,
+      "end_ms": 404820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 784,
+      "word": "really,",
+      "start_ms": 404820,
+      "end_ms": 405240,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 785,
+      "word": "really",
+      "start_ms": 405280,
+      "end_ms": 405600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 786,
+      "word": "long",
+      "start_ms": 405600,
+      "end_ms": 405960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 787,
+      "word": "and",
+      "start_ms": 405960,
+      "end_ms": 406200,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 788,
+      "word": "messy",
+      "start_ms": 406200,
+      "end_ms": 406520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 789,
+      "word": "and",
+      "start_ms": 406520,
+      "end_ms": 407160,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 790,
+      "word": "they",
+      "start_ms": 407160,
+      "end_ms": 407300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 791,
+      "word": "become",
+      "start_ms": 407300,
+      "end_ms": 407620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 792,
+      "word": "unmaintainable.",
+      "start_ms": 407620,
+      "end_ms": 408480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 793,
+      "word": "So",
+      "start_ms": 409240,
+      "end_ms": 409880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 794,
+      "word": "that's",
+      "start_ms": 409880,
+      "end_ms": 410320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 795,
+      "word": "it.",
+      "start_ms": 410320,
+      "end_ms": 410460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 796,
+      "word": "If",
+      "start_ms": 410760,
+      "end_ms": 410900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 797,
+      "word": "you",
+      "start_ms": 410900,
+      "end_ms": 411120,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 798,
+      "word": "really",
+      "start_ms": 411120,
+      "end_ms": 411380,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 799,
+      "word": "like",
+      "start_ms": 411380,
+      "end_ms": 411720,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 800,
+      "word": "this",
+      "start_ms": 411720,
+      "end_ms": 411960,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 801,
+      "word": "video,",
+      "start_ms": 411960,
+      "end_ms": 412400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 802,
+      "word": "please",
+      "start_ms": 412700,
+      "end_ms": 413280,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 803,
+      "word": "hit",
+      "start_ms": 413280,
+      "end_ms": 413880,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 804,
+      "word": "like",
+      "start_ms": 413880,
+      "end_ms": 414140,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 805,
+      "word": "and",
+      "start_ms": 414140,
+      "end_ms": 414340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 806,
+      "word": "subscribe.",
+      "start_ms": 414340,
+      "end_ms": 414780,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 807,
+      "word": "Let",
+      "start_ms": 415260,
+      "end_ms": 415400,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 808,
+      "word": "me",
+      "start_ms": 415400,
+      "end_ms": 415620,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 809,
+      "word": "know",
+      "start_ms": 415620,
+      "end_ms": 415900,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 810,
+      "word": "what",
+      "start_ms": 415900,
+      "end_ms": 416660,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 811,
+      "word": "the",
+      "start_ms": 416660,
+      "end_ms": 416820,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 812,
+      "word": "next",
+      "start_ms": 416820,
+      "end_ms": 417040,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 813,
+      "word": "video",
+      "start_ms": 417040,
+      "end_ms": 417320,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 814,
+      "word": "series",
+      "start_ms": 417320,
+      "end_ms": 417740,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 815,
+      "word": "should",
+      "start_ms": 417740,
+      "end_ms": 418020,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 816,
+      "word": "be",
+      "start_ms": 418020,
+      "end_ms": 418180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 817,
+      "word": "about.",
+      "start_ms": 418180,
+      "end_ms": 418520,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 818,
+      "word": "Thank",
+      "start_ms": 418520,
+      "end_ms": 419460,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 819,
+      "word": "you",
+      "start_ms": 419460,
+      "end_ms": 419640,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 820,
+      "word": "so",
+      "start_ms": 419640,
+      "end_ms": 419840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 821,
+      "word": "much",
+      "start_ms": 419840,
+      "end_ms": 420300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 822,
+      "word": "and",
+      "start_ms": 420300,
+      "end_ms": 420860,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 823,
+      "word": "I",
+      "start_ms": 420860,
+      "end_ms": 421100,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 824,
+      "word": "enjoyed",
+      "start_ms": 421100,
+      "end_ms": 421500,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 825,
+      "word": "recording",
+      "start_ms": 421500,
+      "end_ms": 422600,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 826,
+      "word": "these",
+      "start_ms": 422600,
+      "end_ms": 422920,
+      "prob": 1.0,
+      "matched": false,
+      "censor": true,
+      "matched_with": ""
+    },
+    {
+      "idx": 827,
+      "word": "videos.",
+      "start_ms": 422920,
+      "end_ms": 423300,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 828,
+      "word": "Have",
+      "start_ms": 423900,
+      "end_ms": 424180,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 829,
+      "word": "a",
+      "start_ms": 424180,
+      "end_ms": 424340,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 830,
+      "word": "great",
+      "start_ms": 424340,
+      "end_ms": 424480,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 831,
+      "word": "day.",
+      "start_ms": 424480,
+      "end_ms": 424840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    },
+    {
+      "idx": 832,
+      "word": "Bye.",
+      "start_ms": 425660,
+      "end_ms": 425840,
+      "prob": 1.0,
+      "matched": false,
+      "censor": false,
+      "matched_with": ""
+    }
+  ]
+}

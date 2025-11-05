@@ -113,24 +113,39 @@ def transcribe_with_words(wav_path: Path, model_size="small"):
     return words, info
 
 def build_hits(words, banned: List[str], fuzzy=False) -> List[WordHit]:
+    """
+    Exact match by default.
+    If fuzzy=True, use fuzz.ratio (NOT partial_ratio) and still require exact match
+    for very short tokens (<=2 chars) to avoid cases like 'we' matching 'welcome'.
+    """
     blist = [normalize_token(b) for b in banned if b.strip()]
     hits: List[WordHit] = []
+
     for (idx, token, s, e, p) in words:
         wn = normalize_token(token)
         matched = False
         matched_with = ""
+
         for b in blist:
             if not b:
                 continue
+
             if not fuzzy:
-                if wn == b:
-                    matched, matched_with = True, b
-                    break
+                cond = (wn == b)
             else:
-                if fuzz.partial_ratio(wn, b) >= FUZZY_THRESHOLD:
-                    matched, matched_with = True, b
-                    break
+                # Short tokens must be exact to avoid substring-y false positives
+                if len(wn) <= 2 or len(b) <= 2:
+                    cond = (wn == b)
+                else:
+                    # ratio compares whole strings; avoids substring matches
+                    cond = fuzz.ratio(wn, b) >= FUZZY_THRESHOLD
+
+            if cond:
+                matched, matched_with = True, b
+                break
+
         hits.append(WordHit(idx, token, s, e, p, matched, matched, matched_with))
+
     return hits
 
 def merge_intervals_from_hits(hits: List[WordHit], margin_ms=DEFAULT_MARGIN_MS) -> List[Tuple[int, int]]:
@@ -184,7 +199,7 @@ def _safe_append(base: AudioSegment, seg: AudioSegment, max_cf_ms: int = 10) -> 
 
 # ---- NEW: Proper mute/duck while beeping (uses safe crossfades) ----
 def build_censored_audio(audio: AudioSegment, intervals, freq=DEFAULT_BEEP_FREQ, gain_db=DEFAULT_BEEP_DB,
-                         mode="replace", duck_db=-40):
+                            mode="replace", duck_db=-40):
     """
     Create a new audio where each interval is either replaced (muted) with a beep,
     or ducked (attenuated) under a beep. Uses safe adaptive crossfades.

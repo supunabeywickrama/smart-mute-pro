@@ -11,3 +11,11 @@ python mute_words.py samples\sample.mp4 --apply_from samples\sample.review.csv -
 >>>And if any syllable tails leak, give a bit more padding:
 
 ... --margin 120 --freq 750 --gain -3
+
+
+
+streamlit run app.py
+
+>> another terminal
+
+python batch_mute.py samples outputs --words "the,so,we,now,you" --fuzzy --mute_mode replace

@@ -10,7 +10,12 @@ from pydub import AudioSegment, generators
 from rapidfuzz import fuzz
 
 # --- Point pydub to ffmpeg on Windows (adjust if installed elsewhere) ---
-AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
+#AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
+import shutil
+ff = shutil.which("ffmpeg")
+if ff:
+    AudioSegment.converter = ff
+
 
 # --- robust ffmpeg resolution (works even if PATH is missing) ---
 def _ffmpeg_path() -> str:

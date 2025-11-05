@@ -16,8 +16,14 @@ from mute_words import (
 )
 
 # ---------- hard-point ffmpeg for Streamlit worker (safe if already set)
-AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
-os.environ["PATH"] = r"C:\ffmpeg\bin;" + os.environ.get("PATH", "")
+#AudioSegment.converter = r"C:\ffmpeg\bin\ffmpeg.exe"
+#os.environ["PATH"] = r"C:\ffmpeg\bin;" + os.environ.get("PATH", "")
+
+import shutil
+ff = shutil.which("ffmpeg")
+if ff:
+    AudioSegment.converter = ff
+
 
 st.set_page_config(page_title="VoCleanse", page_icon="🔮", layout="wide")
 

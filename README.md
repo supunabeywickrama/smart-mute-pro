@@ -4,7 +4,7 @@
 VoCleanse is an intelligent AI-based audio–video processing tool that automatically detects and censors unwanted words (profanity, filler words, or sensitive terms) from any uploaded audio or video file.  
 Using speech-to-text models, fuzzy matching, and intelligent audio synthesis, VoCleanse lets users preview and export clean, professional-sounding media with just one click.
 
-Demo video: ([link](https://drive.google.com/drive/folders/1zdso1EAJzdktsV8CwIMX0BK0kwiz8s4D))
+Demo video: ([link](https://drive.google.com/file/d/1EfWFEwxS0neASIpBCIYkRzcS5KitClqv/view?usp=sharing))
 ---
 
 ## ⚙️ AI / Machine Learning Features

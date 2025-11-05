@@ -135,8 +135,8 @@ Supun Tharaka (ALSupun)
 🏫 University of Kelaniya
 💡 Embedded Systems, AI & Smart Automation
 📫 Contact: supuun2001@gmail.com
-🔗 GitHub: ([add your link](https://github.com/supunabeywickrama))
-🔗 LinkedIn: ([add your link](https://www.linkedin.com/in/supun-tharaka-6bb8b5278/))
+🔗 GitHub: ([link](https://github.com/supunabeywickrama))
+🔗 LinkedIn: ([link](https://www.linkedin.com/in/supun-tharaka-6bb8b5278/))
 
 
 ---
